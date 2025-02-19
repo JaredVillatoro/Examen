@@ -16,3 +16,4 @@ app.use("/usuario", usuarioRouters)
 app.listen(port, () => {
 console.log(`Puerto escuchado en: ${port}`)
 })
+
